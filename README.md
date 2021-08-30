@@ -4,8 +4,6 @@
   At the same time, the project supports model conversion, including onnx and caffe formats, as well as model forward acceleration 
   processing before model deployment.Model forward acceleration mainly includes model cutting, simplification and merge batchnorm layer. 
   Meanwhile, it includes the verification and comparison of the conformance after the model conversion. 
-- [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet_new)
-- paper link: https://arxiv.org/abs/2002.06604
 
 ## Dependency
 - python (tested on python3)
