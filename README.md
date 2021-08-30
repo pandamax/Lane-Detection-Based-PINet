@@ -153,4 +153,4 @@ python flopscount.py
 - [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet_new)
 - [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
 - [pytorch_to_caffe](https://github.com/WolffyChen/PytorchToCaffe/blob/master/pytorch_to_caffe.py)
-- [pytorch_bn_fusion]https://github.com/MIPT-Oulu/pytorch_bn_fusion
+- [pytorch_bn_fusion](https://github.com/MIPT-Oulu/pytorch_bn_fusion)
