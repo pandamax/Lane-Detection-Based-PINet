@@ -150,7 +150,15 @@ python flopscount.py
 
 
 ## Demo
-![avatar](assets/demo.gif)
+<table>
+    <tr>
+            <th>input</th>
+            <th>output</th>
+    </tr>
+    <tr>
+        <td><img src=assets/demo.gif /></td>
+    </tr>
+</table>
 
 ## Reference
 - [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet_new)
