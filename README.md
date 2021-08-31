@@ -152,10 +152,6 @@ python flopscount.py
 ## Demo
 <table>
     <tr>
-            <th>input</th>
-            <th>output</th>
-    </tr>
-    <tr>
         <td><img src=assets/demo.gif /></td>
     </tr>
 </table>
