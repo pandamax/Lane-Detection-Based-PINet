@@ -1,3 +1,4 @@
+<div align="left">
 ## Use PINet As an Lane Detetctor. 
 
 - the project use PINet as lane detector, supporting training on [VIL-100](https://github.com/yujun0-0/MMA-Net/tree/main/dataset). 
@@ -146,6 +147,10 @@ python flopscount.py
 - merged_caffemodel_inference.py: inference test of converted caffe model.
 - onnx_inference.py: inference test of converted onnx model.
 - pytorch_caffemodel_inference.py: inference test of the base pytorch model and corresponding converted caffe model.
+
+
+## Demo
+![avatar](assets/demo.gif)
 
 ## Reference
 - [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet_new)
