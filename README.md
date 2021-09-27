@@ -155,9 +155,7 @@ python flopscount.py
 
     <tr>
         <td><img src=assets/demo.gif /></td>
-
     </tr>
-   
 </table>
 
 ## Reference
