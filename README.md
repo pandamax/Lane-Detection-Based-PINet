@@ -150,15 +150,6 @@ python flopscount.py
 - pytorch_caffemodel_inference.py: inference test of the base pytorch model and corresponding converted caffe model.
 
 ### Demonstration
-
-<table>
-
-    <tr>
-        <td><img src=assets/demo.gif /></td>
-    </tr>
-</table>
-
-
 <table>
     <tr>
             <th>demo</th>
