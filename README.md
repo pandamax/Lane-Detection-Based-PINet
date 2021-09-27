@@ -149,6 +149,17 @@ python flopscount.py
 - onnx_inference.py: inference test of converted onnx model.
 - pytorch_caffemodel_inference.py: inference test of the base pytorch model and corresponding converted caffe model.
 
+### Demo
+
+<table>
+
+    <tr>
+        <td><img src=assets/demo.gif /></td>
+
+    </tr>
+   
+</table>
+
 ## Reference
 - [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet_new)
 - [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
