@@ -189,7 +189,8 @@ class Generator(object):
         test_index = random.randrange(0, self.size_test-1)
         # test_image = cv2.imread(self.p.test_root_url+self.test_data[test_index]['raw_file'])
         test_image = cv2.imdecode(np.fromfile(self.p.test_root_url+self.test_data[test_index]["raw_file"], dtype=np.uint8), cv2.IMREAD_COLOR)
-
+        # crop
+        test_image, _, _, _, _ = self.crop_img(test_image)
         test_image = cv2.resize(test_image, (self.p.x_size,self.p.y_size))
         
         return np.array(inputs), target_lanes, target_h, np.rollaxis(test_image, axis=2, start=0), data_list
