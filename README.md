@@ -164,3 +164,7 @@ python flopscount.py
 - [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
 - [pytorch_to_caffe](https://github.com/WolffyChen/PytorchToCaffe/blob/master/pytorch_to_caffe.py)
 - [pytorch_bn_fusion](https://github.com/MIPT-Oulu/pytorch_bn_fusion)
+
+
+## Update
+- [An-Ultra-LightWeight-Lane-Detetctor-base-on-bired-view](https://github.com/pandamax/An-Ultra-LightWeight-Lane-Detetctor)
